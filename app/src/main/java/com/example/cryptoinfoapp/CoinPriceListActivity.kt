@@ -2,7 +2,6 @@ package com.example.cryptoinfoapp
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.example.cryptoinfoapp.adapters.CoinInfoAdapter
 import com.example.cryptoinfoapp.pojo.CoinPriceInfo

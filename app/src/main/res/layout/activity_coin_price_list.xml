@@ -13,4 +13,5 @@
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
         tools:listitem="@layout/item_coin_info"/>
 
+
 </androidx.constraintlayout.widget.ConstraintLayout>
